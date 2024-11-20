@@ -1,4 +1,4 @@
-- Triton inference server: Inflighting batching
+- Triton inference server: Inflight batching
 - Speculative decoding
 - Model optimizer: Sparsity (Nvidia 2:4 Sparsity)
 - TensorRT-LLM
